@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة الصيدلية المتكامل | Pharmacy Management System",
+  "description": "نظام متكامل واحترافي لإدارة الصيدليات باللغة العربية: نقاط البيع POS، تحديث أسعار Drug Eye® السحابي بالإنترنت، المخزون، الباتشات وتواريخ الصلاحية، المشتريات، المبيعات، الشيفتات، وطباعة الفواتير الحرارية مع دعم العمل أوفلاين والمزامنة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
